@@ -1,4 +1,9 @@
-## Hi there 👋
+## Julia 👋
+🎓 Dev em formação — SESI SENAI Joinville, 2026  
+💡 Portugol & C  
+🌐 PT-BR | EN C1  
+---
+Explorando o mundo da tecnologia com curiosidade! 🧠
 
 <!--
 **jubyte/jubyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
