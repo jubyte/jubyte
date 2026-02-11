@@ -1,5 +1,5 @@
 ## Julia 👋
----
+
 🎓 Dev em formação — SESI SENAI Joinville, 2026  
 💡 Portugol & C  
 🌐 PT-BR | EN C1  
