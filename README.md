@@ -2,6 +2,7 @@
 
 🎓 Dev em formação — SESI SENAI Joinville, 2026  
 💡 C & Portugol 
+
 🌐 PT-BR | EN C1  
 
 Explorando o mundo da tecnologia com curiosidade! 🧠
